@@ -12,6 +12,7 @@ public class HelloWorldController {
     @GetMapping("")
     public String getMethodName() {
    
-        return "Hola mundo, Soy Freinier Cardona";
+        return "Hola mundo, Soy Freinier Cardona Aprendiz del sena, Tecnologo en Analisis y Desarrollo de Software";
+        
     }
 }
